@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Contrail ～軌跡～",
+  "base_artist": "Mami Kawada",
+  "createdAt": "2026-03-16T12:49:45.576430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Contrail",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/01_Contrail_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Contrail",
+      "artist": "GFriend",
+      "has_synced": false,
+      "path": "select/02_Contrail_GFriend.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Contrail Crucifix",
+      "artist": "The Callous Daoboys",
+      "has_synced": false,
+      "path": "select/03_Contrail_Crucifix_The_Callous_Daoboys.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "비행운:飛行雲 Contrail",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/04_비행운_飛行雲_Contrail_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Contrail",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/05_Contrail_Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Contrail",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/06_Contrail_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Contrail",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/07_Contrail_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Contrail - Ballada Ver.",
+      "artist": "Namie Amuro",
+      "has_synced": true,
+      "path": "select/08_Contrail_-_Ballada_Ver._Namie_Amuro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "contrail tail",
+      "artist": "movies (moimoi×Xceon×Dai.)",
+      "has_synced": false,
+      "path": "select/09_contrail_tail_movies_(moimoi×Xceon×Dai.).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "contrail tail (MK Instrumental Remix)",
+      "artist": "movies (moimoi×Xceon×Dai.)",
+      "has_synced": false,
+      "path": "select/10_contrail_tail_(MK_Instrumental_Remix)_movies_(moimoi×Xceon×Dai.).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "contrail tail (MK Remix)",
+      "artist": "movies",
+      "has_synced": false,
+      "path": "select/11_contrail_tail_(MK_Remix)_movies.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Contrail~軌跡~",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/12_Contrail~軌跡~_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Contrail Ballada Ver.",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/13_Contrail_Ballada_Ver._安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "비행운 Contrail",
+      "artist": "MoonMoon",
+      "has_synced": true,
+      "path": "select/14_비행운_Contrail_MoonMoon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Contrail～軌跡～",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_Contrail~軌跡~_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Contrail～軌跡～",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_02_Contrail~軌跡~_川田_まみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Contrail ～軌跡～",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_03_Contrail_~軌跡~_川田_まみ.txt"
+    }
+  ]
+}
